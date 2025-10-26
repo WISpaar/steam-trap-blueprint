@@ -72,6 +72,59 @@ const translations = {
     'whyMatters.poorHeat': 'انتقال حرارت ضعیف',
     'whyMatters.damage': 'آسیب به تجهیزات سیستم',
     'whyMatters.waste': 'اتلاف محصول و کیفیت پایین',
+    
+    // Products
+    'products.title': 'محصولات ما',
+    'products.subtitle': 'طیف کامل شیرهای تخلیه بخار برای هر کاربردی',
+    'products.viewAll': 'مشاهده همه محصولات',
+    'products.viewDetails': 'جزئیات محصول',
+    'products.requestQuote': 'استعلام قیمت',
+    'products.specifications': 'مشخصات فنی',
+    'products.applications': 'کاربردها',
+    'products.downloadCatalog': 'دانلود کاتالوگ',
+    
+    // Articles
+    'articles.title': 'مقالات آموزشی',
+    'articles.subtitle': 'دانش فنی و راهنماهای تخصصی سیستم‌های بخار',
+    'articles.readMore': 'ادامه مطلب',
+    'articles.latestArticles': 'آخرین مقالات',
+    'articles.viewAll': 'مشاهده همه مقالات',
+    'articles.relatedArticles': 'مقالات مرتبط',
+    
+    // Resources
+    'resources.title': 'منابع و کاتالوگ',
+    'resources.subtitle': 'دسترسی به کاتالوگ‌ها، دیتاشیت‌ها و راهنماهای فنی',
+    'resources.download': 'دانلود',
+    'resources.technicalDocs': 'مستندات فنی',
+    'resources.troubleshooting': 'راهنمای عیب‌یابی',
+    
+    // Contact
+    'contact.title': 'تماس با ما',
+    'contact.subtitle': 'مشاوره رایگان با متخصصان ما',
+    'contact.form.name': 'نام و نام خانوادگی',
+    'contact.form.email': 'ایمیل',
+    'contact.form.phone': 'تلفن',
+    'contact.form.company': 'نام شرکت',
+    'contact.form.industry': 'صنعت',
+    'contact.form.message': 'توضیحات نیاز یا مشکل سیستم بخار',
+    'contact.form.submit': 'ارسال درخواست',
+    'contact.form.success': 'پیام شما با موفقیت ارسال شد',
+    
+    // About
+    'about.subtitle': 'بیش از دو دهه تخصص در صنعت',
+    'about.ourMission': 'ماموریت ما',
+    'about.ourVision': 'چشم‌انداز ما',
+    'about.certifications': 'گواهینامه‌ها',
+    
+    // Preview Sections
+    'preview.products.title': 'محصولات تخصصی',
+    'preview.products.desc': 'طیف کامل شیرهای تخلیه بخار برای صنایع مختلف',
+    'preview.articles.title': 'دانش فنی',
+    'preview.articles.desc': 'مقالات و راهنماهای تخصصی سیستم‌های بخار',
+    'preview.resources.title': 'منابع فنی',
+    'preview.resources.desc': 'دسترسی به کاتالوگ‌ها و مستندات',
+    'preview.contact.title': 'مشاوره رایگان',
+    'preview.contact.desc': 'ارزیابی سیستم بخار و انتخاب محصول مناسب',
   },
   en: {
     // Navigation
@@ -134,6 +187,59 @@ const translations = {
     'whyMatters.poorHeat': 'Poor heat transfer',
     'whyMatters.damage': 'Damage to system equipment',
     'whyMatters.waste': 'Poor quality or wasted product',
+    
+    // Products
+    'products.title': 'Our Products',
+    'products.subtitle': 'Complete range of steam traps for every application',
+    'products.viewAll': 'View All Products',
+    'products.viewDetails': 'View Details',
+    'products.requestQuote': 'Request Quote',
+    'products.specifications': 'Technical Specifications',
+    'products.applications': 'Applications',
+    'products.downloadCatalog': 'Download Catalog',
+    
+    // Articles
+    'articles.title': 'Technical Articles',
+    'articles.subtitle': 'Technical knowledge and specialized guides for steam systems',
+    'articles.readMore': 'Read More',
+    'articles.latestArticles': 'Latest Articles',
+    'articles.viewAll': 'View All Articles',
+    'articles.relatedArticles': 'Related Articles',
+    
+    // Resources
+    'resources.title': 'Resources & Catalogs',
+    'resources.subtitle': 'Access to catalogs, datasheets and technical guides',
+    'resources.download': 'Download',
+    'resources.technicalDocs': 'Technical Documentation',
+    'resources.troubleshooting': 'Troubleshooting Guide',
+    
+    // Contact
+    'contact.title': 'Contact Us',
+    'contact.subtitle': 'Free consultation with our specialists',
+    'contact.form.name': 'Full Name',
+    'contact.form.email': 'Email',
+    'contact.form.phone': 'Phone',
+    'contact.form.company': 'Company Name',
+    'contact.form.industry': 'Industry',
+    'contact.form.message': 'Describe your steam system needs or issues',
+    'contact.form.submit': 'Submit Request',
+    'contact.form.success': 'Your message has been sent successfully',
+    
+    // About
+    'about.subtitle': 'Over two decades of industry expertise',
+    'about.ourMission': 'Our Mission',
+    'about.ourVision': 'Our Vision',
+    'about.certifications': 'Certifications',
+    
+    // Preview Sections
+    'preview.products.title': 'Specialized Products',
+    'preview.products.desc': 'Complete range of steam traps for various industries',
+    'preview.articles.title': 'Technical Knowledge',
+    'preview.articles.desc': 'Articles and specialized guides for steam systems',
+    'preview.resources.title': 'Technical Resources',
+    'preview.resources.desc': 'Access to catalogs and documentation',
+    'preview.contact.title': 'Free Consultation',
+    'preview.contact.desc': 'Steam system evaluation and product selection',
   }
 };
 

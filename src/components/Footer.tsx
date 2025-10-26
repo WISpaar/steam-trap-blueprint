@@ -81,10 +81,17 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="border-t border-secondary-foreground/10 mt-8 pt-8 text-center">
-          <p className="text-sm text-secondary-foreground/60">
-            © {currentYear} {t('company.name')}. {t('footer.rights')}
-          </p>
+        <div className="border-t border-secondary-foreground/10 mt-8 pt-8">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
+            <p className="text-sm text-secondary-foreground/60">
+              © {currentYear} {t('company.name')}. {t('footer.rights')}
+            </p>
+            <p className="text-xs text-secondary-foreground/50">
+              {language === 'fa' 
+                ? 'طراحی و توسعه توسط آژانس طراحی وب ویسپار | تمامی حقوق این وب‌سایت محفوظ است'
+                : 'Designed & Developed by Wispar Web Design Agency | All rights reserved'}
+            </p>
+          </div>
         </div>
       </div>
     </footer>
